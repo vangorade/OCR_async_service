@@ -1,8 +1,8 @@
-# Mercari assignment solution
+# OCR service
 
 ### Architecture
 
-![workflow](/Workflow.png)
+![workflow](https://github.com/vangorade/OCR_async_service/blob/master/OCR/Workflow.png)
 
 ### Built With
 * python
